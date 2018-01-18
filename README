@@ -4,6 +4,8 @@ To build and install the library, run:
 $ ./configure
 $ make
 # make install
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flibyaml.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flibyaml?ref=badge_shield)
+
 
 If you checked the source code from the Git repository, run
 $ ./bootstrap
@@ -25,3 +27,7 @@ under the MIT license.  See the file LICENSE for more details.
 
 This project is developed for Python Software Foundation as a part of
 Google Summer of Code under the mentorship of Clark Evans.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flibyaml.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flibyaml?ref=badge_large)
